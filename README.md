@@ -1,7 +1,7 @@
 # Swift Playgrounds de Estudo
 
-Coleção de playgrounds feitos para aprender e praticar Swift.
+Coleção de playgrounds para aprender Swift.
 
-## Conteúdo
+## 🧠 Conteúdos
 
 - [01-Codable+Decodable+Encodable](./01-DecodableEncodable.playground)
