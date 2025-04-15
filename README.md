@@ -5,3 +5,4 @@ Coleção de playgrounds para aprender Swift.
 ## 🧠 Conteúdos
 
 - [01-Codable+Decodable+Encodable](./01-DecodableEncodable.playground) - O que são os protocolos Codable, Encodable e Decodable.
+- [02-Class vs Struct](./02-ClassVsStruct.playground) - Diferença entre Class e Struct.
